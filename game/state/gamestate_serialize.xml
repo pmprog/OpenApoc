@@ -248,6 +248,7 @@
 		<member>recentlyFought</member>
 		<member>healingProgress</member>
 		<member>owner</member>
+		<member>oldOwner</member>
 		<member>city</member>
 		<member>homeBuilding</member>
 		<member>currentBuilding</member>
